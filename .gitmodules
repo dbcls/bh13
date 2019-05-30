@@ -7,3 +7,6 @@
 [submodule "VCFotf"]
 	path = VCFotf
 	url = https://github.com/fstrozzi/dockerfiles.git
+[submodule "sparql-vcf"]
+	path = sparql-vcf
+	url = https://github.com/simonjupp/sparql-vcf.git
