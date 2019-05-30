@@ -1,3 +1,6 @@
 [submodule "FALDO"]
 	path = FALDO
 	url = https://github.com/OBF/FALDO.git
+[submodule "bioruby-vcf2rdf"]
+	path = bioruby-vcf2rdf
+	url = https://github.com/fstrozzi/bioruby-vcf2rdf.git
