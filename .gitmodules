@@ -10,3 +10,6 @@
 [submodule "sparql-vcf"]
 	path = sparql-vcf
 	url = https://github.com/simonjupp/sparql-vcf.git
+[submodule "RDF-SIFTS"]
+	path = RDF-SIFTS
+	url = https://github.com/Yusuke-KOMIYAMA/RDF-SIFTS.git
