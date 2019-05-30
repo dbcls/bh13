@@ -4,3 +4,6 @@
 [submodule "bioruby-vcf2rdf"]
 	path = bioruby-vcf2rdf
 	url = https://github.com/fstrozzi/bioruby-vcf2rdf.git
+[submodule "VCFotf"]
+	path = VCFotf
+	url = https://github.com/fstrozzi/dockerfiles.git
